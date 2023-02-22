@@ -1,2 +1,1 @@
 echo "bcuin"
-echo "temiv"
